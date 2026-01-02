@@ -1,5 +1,29 @@
-# 💫 About Me:
-🚀 Full-Stack Developer | MERN | Firebase | AI-Driven Applications<br><br>I’m a developer focused on building scalable, real-world web applications with clean architecture, responsive UI, and efficient backend systems. I enjoy working on products that solve practical problems and leverage automation, real-time data, and AI integrations.<br><br>🔭 Currently Working On<br><br>Gym Membership Automation SaaS (attendance, payments, reminders, QR-based tracking)<br><br>Voice-enabled Expense Tracker with real-time analytics<br><br>AI-powered automation features using modern LLM APIs<br><br>🌱 Currently Learning<br><br>Next.js & TypeScript<br><br>System Design fundamentals<br><br>Cloud basics (AWS)<br><br>LLM integration for web applications
+## 💫 About Me
+
+🚀 **Full-Stack Developer | MERN | Firebase | AI-Driven Applications**
+
+I’m a developer focused on building **scalable, real-world web applications** with clean architecture, responsive UI, and efficient backend systems. I enjoy working on products that solve practical problems and leverage **automation, real-time data, and AI integrations**.
+
+---
+
+## 🛠️ Currently Working On
+- **Gym Membership Automation SaaS**  
+  *Attendance, payments, reminders, QR-based tracking*
+
+- **Voice-enabled Expense Tracker**  
+  *Real-time analytics and intelligent form prefill*
+
+- **AI-powered automation features**  
+  *Built using modern LLM APIs*
+
+---
+
+## 🌱 Currently Learning
+- **Next.js & TypeScript**
+- **System Design fundamentals**
+- **Cloud basics (AWS)**
+- **LLM integration for web applications**
+
 
 
 # 💻 Tech Stack:
