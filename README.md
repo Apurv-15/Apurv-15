@@ -1,25 +1,48 @@
-## 💫 About Me
-🚀 **Full-Stack Developer | MERN | Firebase | AI-Driven Applications**
-I'm a developer focused on building **scalable, real-world web applications** with clean architecture, responsive UI, and efficient backend systems. I enjoy working on products that solve practical problems and leverage **automation, real-time data, and AI integrations**.
+## 👋 About Me
+**Full-Stack Developer | MERN | Firebase | AI-driven apps**
 
-# 💻 Tech Stack:
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)  ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+I build **production-grade web products** end-to-end — from UI/UX to APIs, data, and deployments — with a focus on **scalability, reliability, and great developer experience**.
 
 ---
 
-## 🛠️ Currently Working On
-- **Gym Membership Automation SaaS**  
-  *Attendance, payments, reminders, QR-based tracking*
-- **Voice-enabled Expense Tracker**  
-  *Real-time analytics and intelligent form prefill*
-- **AI-powered automation features**  
-  *Built using modern LLM APIs*
+## 🚀 Production Work (Real Projects)
+
+### 1) Freelance: Internauto Dashboard
+A private, client-facing dashboard built for day-to-day operations.
+
+**What I shipped (production-level):**
+- Role-based, secure admin flows (auth + permissions)
+- Data-heavy dashboards with responsive UI and reusable components
+- CRUD + validations + edge-case handling (empty states, retries, errors)
+- Performance-focused front-end patterns (pagination, debounced search, caching where needed)
+- Clean code structure with TypeScript-first DX
+
+### 2) SaaS: Exotex App (Launching across India)
+A SaaS product designed to scale for multi-location usage and real-world workloads.
+
+**Complex things I’ve implemented:**
+- Multi-tenant-ready architecture patterns (scalable data modeling + isolation-ready flows)
+- Payments + subscription-style workflows (plan/renewal-style flows and state handling)
+- Real-time / near-real-time operational views (live status-style UI patterns)
+- Background/automation features (reminders, scheduled actions, event-driven flows)
+- Production deployment workflows (env separation, secrets, build/deploy discipline)
 
 ---
+
+## 🧰 Tech Stack
+**Frontend:** Next.js, React, TypeScript, Framer
+**Backend:** Node.js, Firebase
+**Databases:** MongoDB, MySQL
+**Dev/Deploy:** Vercel
+
+---
+
+## 📚 Currently Working On
+- **Gym Membership Automation SaaS** (attendance, payments, QR tracking, reminders)
+- **Voice-enabled Expense Tracker** (real-time analytics + intelligent form prefills)
+- **AI-powered automations** using modern LLM APIs
 
 ## 🌱 Currently Learning
-- **System Design fundamentals**
-- **Cloud basics (AWS)**
-- **LLM integration for web applications**
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- System design fundamentals
+- Cloud basics (AWS)
+- LLM integration patterns for web apps
