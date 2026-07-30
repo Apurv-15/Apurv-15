@@ -17,7 +17,7 @@ A private, client-facing dashboard built for day-to-day operations.
 - Performance-focused front-end patterns (pagination, debounced search, caching where needed)
 - Clean code structure with TypeScript-first DX
 
-### 2) SaaS: Exotex App (Launching across India)
+### 2) Playstore App:- Lauched for Exotex.PVT.LTD
 A SaaS product designed to scale for multi-location usage and real-world workloads.
 
 **Complex things I’ve implemented:**
