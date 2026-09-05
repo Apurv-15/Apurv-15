@@ -79,13 +79,14 @@ I am an engineering lead and full-stack builder who operates with a **product ag
       <p><code>Three.js</code> <code>GSAP</code> <code>TailwindCSS</code> <code>Vite</code> <code>Interactive 3D</code></p>
     </td>
     <td width="50%">
-      <h3 align="left">🚂 RailOne & Shiprocket MCP Ecosystem</h3>
-      <p><strong>Mobility & Logistical Developer Tooling</strong></p>
+      <h3 align="left">📲 QR-Based Access & Attendance Engine</h3>
+      <p><strong>Hardware-Free Verification & Dynamic Check-in SaaS</strong></p>
       <ul>
-        <li><strong>RailOne:</strong> Modern cross-platform railway ticketing and live tracking application built with React Native and Expo.</li>
-        <li><strong>Shiprocket MCP Server:</strong> Model Context Protocol daemon empowering AI agents (Claude/Cursor) to perform live rate calculations, generate AWBs, dispatch orders, and query tracking directly.</li>
+        <li>Engineered a contactless, high-frequency QR attendance & access verification platform designed for gyms, facilities, and workspaces.</li>
+        <li>Features anti-spoofing time-rotational dynamic QR tokens, instant zero-latency camera scanning, and offline-safe local check-ins.</li>
+        <li>Integrated live attendance analytics, subscription status checks, automated renewal alerts, and role-based operator consoles.</li>
       </ul>
-      <p><code>React Native</code> <code>MCP Protocol</code> <code>TypeScript</code> <code>API Architecture</code></p>
+      <p><code>React Native / Expo</code> <code>Node.js</code> <code>Supabase / Firebase</code> <code>QR Scanning</code> <code>Real-Time Auth</code></p>
     </td>
   </tr>
 </table>
