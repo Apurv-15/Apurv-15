@@ -25,6 +25,16 @@ I am an engineering lead and full-stack builder who operates with a **product ag
 <table>
   <tr>
     <td width="50%">
+      <h3 align="left">🥗 Greens on Wheels (Food SaaS)</h3>
+      <p><strong>Massive Multi-Tenant QR Ordering & Kitchen POS Platform</strong></p>
+      <ul>
+        <li>Architected an enterprise multi-tenant dining & cloud-kitchen SaaS with <strong>Next.js 15 App Router</strong>, React 19, and Supabase SSR.</li>
+        <li><strong>Role-Isolated Portals:</strong> Engineered distinct real-time operational layers for Super Admins, Franchise Owners, Kitchen/KDS Staff, and Customer Dynamic QR Tables.</li>
+        <li>Integrated <strong>Razorpay automated checkout</strong>, GST billing engine, live order status streams with TanStack Query, and plan-tiered feature gates.</li>
+      </ul>
+      <p><code>Next.js 15</code> <code>React 19</code> <code>Supabase (RLS/SSR)</code> <code>Razorpay</code> <code>Tailwind</code> <code>Zustand</code></p>
+    </td>
+    <td width="50%">
       <h3 align="left">🎬 OpenSource Clipping Pro</h3>
       <p><strong>Enterprise-Grade AI Content Studio & Video Pipeline</strong></p>
       <ul>
@@ -34,6 +44,8 @@ I am an engineering lead and full-stack builder who operates with a **product ag
       </ul>
       <p><code>Python</code> <code>FastAPI</code> <code>React</code> <code>Tailwind</code> <code>FFmpeg</code> <code>Whisper</code> <code>Docker</code></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="left">💎 Jwells — Sterling Silver Luxury Platform</h3>
       <p><strong>D2C E-Commerce & Micro-Interaction Showcase</strong></p>
@@ -44,8 +56,6 @@ I am an engineering lead and full-stack builder who operates with a **product ag
       </ul>
       <p><code>Next.js 15</code> <code>React 19</code> <code>Supabase</code> <code>GSAP</code> <code>Shiprocket</code> <code>AWS ALB</code></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="left">🛡️ Ekotex Warranty & Service Manager</h3>
       <p><strong>Mission-Critical Mobile Enterprise SaaS (Live on Play Store)</strong></p>
@@ -56,6 +66,8 @@ I am an engineering lead and full-stack builder who operates with a **product ag
       </ul>
       <p><code>React Native</code> <code>Expo</code> <code>Supabase</code> <code>Offline-First Sync</code> <code>PostgreSQL</code></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="left">⚡ InternAuto Pro Suite</h3>
       <p><strong>Stealth Autonomous Multi-Platform Agent Platform</strong></p>
@@ -66,8 +78,6 @@ I am an engineering lead and full-stack builder who operates with a **product ag
       </ul>
       <p><code>Node.js</code> <code>TypeScript</code> <code>Puppeteer/Playwright</code> <code>Gemini AI</code> <code>Redis</code></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="left">🌿 Soul Viva — Cinematic 3D Catalog</h3>
       <p><strong>Interactive Digital Showcase & B2B Inquiry Engine</strong></p>
@@ -77,16 +87,6 @@ I am an engineering lead and full-stack builder who operates with a **product ag
         <li>Lighthouse 98+ performance rating despite heavy media through optimized asset loaders and adaptive streaming.</li>
       </ul>
       <p><code>Three.js</code> <code>GSAP</code> <code>TailwindCSS</code> <code>Vite</code> <code>Interactive 3D</code></p>
-    </td>
-    <td width="50%">
-      <h3 align="left">📲 QR-Based Access & Attendance Engine</h3>
-      <p><strong>Hardware-Free Verification & Dynamic Check-in SaaS</strong></p>
-      <ul>
-        <li>Engineered a contactless, high-frequency QR attendance & access verification platform designed for gyms, facilities, and workspaces.</li>
-        <li>Features anti-spoofing time-rotational dynamic QR tokens, instant zero-latency camera scanning, and offline-safe local check-ins.</li>
-        <li>Integrated live attendance analytics, subscription status checks, automated renewal alerts, and role-based operator consoles.</li>
-      </ul>
-      <p><code>React Native / Expo</code> <code>Node.js</code> <code>Supabase / Firebase</code> <code>QR Scanning</code> <code>Real-Time Auth</code></p>
     </td>
   </tr>
 </table>
