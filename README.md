@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=260&section=header&text=Apurv%20Deshmukh&fontSize=42&fontAlignY=38&desc=Full-Stack%20Architect%20%7C%20Creative%20Frontend%20(3D%20%26%20Motion)%20%7C%20AI%20Systems%20Engineer&descSize=17&descAlignY=64&descAlign=50&theme=dark" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=1,12,24,30&amp;height=260&amp;section=header&amp;text=Apurv%20Deshmukh&amp;fontSize=42&amp;fontAlignY=38&amp;desc=Full-Stack%20Architect%20%7C%20Creative%20Frontend%20(3D%20%26%20Motion)%20%7C%20AI%20Systems%20Engineer&amp;descSize=17&amp;descAlignY=64&amp;descAlign=50&amp;theme=dark" width="100%" />
 
   <p align="center">
     <strong>Crafting high-velocity digital products, immersive 3D/motion web experiences, and production-grade AI systems.</strong>
   </p>
 
   <p align="center">
-    <a href="mailto:apurvd16@gmail.com"><img src="https://img.shields.io/badge/Email-apurvd16%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/Apurv-15"><img src="https://img.shields.io/badge/GitHub-Apurv--15-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="mailto:apurvd16@gmail.com"><img src="https://img.shields.io/badge/Email-apurvd16%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/Apurv-15"><img src="https://img.shields.io/badge/GitHub-Apurv--15-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
     <a href="https://github.com/Apurv-15"><img src="https://img.shields.io/badge/Availability-Open%20for%20High--Impact%20Roles%20%26%20Contracts-00C853?style=for-the-badge" alt="Status" /></a>
   </p>
 </div>
@@ -16,19 +16,19 @@
 
 ### ⚡ Executive Overview
 
-I am an engineering lead and full-stack builder who operates with a **product agency mindset**: fast execution, rock-solid system architecture, and obsessively polished user experiences. From crafting award-winning **3D & motion interfaces** (Three.js, GSAP, WebGL) to engineering **distributed video pipelines, enterprise offline-first apps, and automated multi-agent systems**, I ship software engineered for scale, conversion, and reliability.
+I am an engineering lead and full-stack builder who operates with a **product agency mindset**: fast execution, rock-solid system architecture, and obsessively polished user experiences. From crafting award-winning **3D &amp; motion interfaces** (Three.js, GSAP, WebGL) to engineering **distributed video pipelines, enterprise offline-first apps, and automated multi-agent systems**, I ship software engineered for scale, conversion, and reliability.
 
 ---
 
-### 💼 Production Projects & Client Work
+### 💼 Production Projects &amp; Client Work
 
 <table>
   <tr>
     <td width="50%">
       <h3 align="left">🥗 Greens on Wheels (Food SaaS)</h3>
-      <p><strong>Massive Multi-Tenant QR Ordering & Kitchen POS Platform</strong></p>
+      <p><strong>Massive Multi-Tenant QR Ordering &amp; Kitchen POS Platform</strong></p>
       <ul>
-        <li>Architected an enterprise multi-tenant dining & cloud-kitchen SaaS with <strong>Next.js 15 App Router</strong>, React 19, and Supabase SSR.</li>
+        <li>Architected an enterprise multi-tenant dining &amp; cloud-kitchen SaaS with <strong>Next.js 15 App Router</strong>, React 19, and Supabase SSR.</li>
         <li><strong>Role-Isolated Portals:</strong> Engineered distinct real-time operational layers for Super Admins, Franchise Owners, Kitchen/KDS Staff, and Customer Dynamic QR Tables.</li>
         <li>Integrated <strong>Razorpay automated checkout</strong>, GST billing engine, live order status streams with TanStack Query, and plan-tiered feature gates.</li>
       </ul>
@@ -36,7 +36,7 @@ I am an engineering lead and full-stack builder who operates with a **product ag
     </td>
     <td width="50%">
       <h3 align="left">🎬 OpenSource Clipping Pro</h3>
-      <p><strong>Enterprise-Grade AI Content Studio & Video Pipeline</strong></p>
+      <p><strong>Enterprise-Grade AI Content Studio &amp; Video Pipeline</strong></p>
       <ul>
         <li>Engineered an autonomous video processing pipeline transcribing, diarizing, and cutting long-form media into viral shorts.</li>
         <li>Integrates <strong>Whisper, Gemini 1.5/2.0, MediaPipe smart face-tracking</strong>, dynamic kinetic karaoke captions, and multi-track audio ducking.</li>
@@ -48,7 +48,7 @@ I am an engineering lead and full-stack builder who operates with a **product ag
   <tr>
     <td width="50%">
       <h3 align="left">💎 Jwells — Sterling Silver Luxury Platform</h3>
-      <p><strong>D2C E-Commerce & Micro-Interaction Showcase</strong></p>
+      <p><strong>D2C E-Commerce &amp; Micro-Interaction Showcase</strong></p>
       <ul>
         <li>Architected an ultra-high performance storefront with <strong>Next.js 15 App Router</strong>, React 19, and Supabase PostgreSQL with RLS.</li>
         <li>Implemented dynamic cart sync across sessions, automated <strong>Shiprocket logistics</strong> order lifecycle, and Razorpay checkout.</li>
@@ -57,10 +57,10 @@ I am an engineering lead and full-stack builder who operates with a **product ag
       <p><code>Next.js 15</code> <code>React 19</code> <code>Supabase</code> <code>GSAP</code> <code>Shiprocket</code> <code>AWS ALB</code></p>
     </td>
     <td width="50%">
-      <h3 align="left">🛡️ Ekotex Warranty & Service Manager</h3>
+      <h3 align="left">🛡️ Ekotex Warranty &amp; Service Manager</h3>
       <p><strong>Mission-Critical Mobile Enterprise SaaS (Live on Play Store)</strong></p>
       <ul>
-        <li>Designed & shipped a field-service ERP for multi-branch industrial & residential operations for Exotex Pvt. Ltd.</li>
+        <li>Designed &amp; shipped a field-service ERP for multi-branch industrial &amp; residential operations for Exotex Pvt. Ltd.</li>
         <li>Built a <strong>zero-data-loss offline-first architecture</strong> with local queue storage (`AsyncStorage`), automated background sync via `NetInfo`, and exponential retry backoff.</li>
         <li>Engineered QR warranty generation, multi-tenant role permissions, automated PDF service reporting, and live inventory sync.</li>
       </ul>
@@ -80,7 +80,7 @@ I am an engineering lead and full-stack builder who operates with a **product ag
     </td>
     <td width="50%">
       <h3 align="left">🌿 Soul Viva — Cinematic 3D Catalog</h3>
-      <p><strong>Interactive Digital Showcase & B2B Inquiry Engine</strong></p>
+      <p><strong>Interactive Digital Showcase &amp; B2B Inquiry Engine</strong></p>
       <ul>
         <li>Luxury digital product portfolio showcasing high-end transparent formulations with real-time 3D parallax hero interactions.</li>
         <li>Embedded interactive ingredient matrices, tactile 3D tilt cards, 4K multi-angle media modals, and B2B quote dispatch flows.</li>
@@ -93,14 +93,14 @@ I am an engineering lead and full-stack builder who operates with a **product ag
 
 ---
 
-### 🛠️ Core Arsenal & Technology Matrix
+### 🛠️ Core Arsenal &amp; Technology Matrix
 
 <table align="center">
   <tr>
-    <td align="center" width="25%"><strong>Frontend & Creative</strong></td>
-    <td align="center" width="25%"><strong>Backend & Data</strong></td>
-    <td align="center" width="25%"><strong>AI & Automation</strong></td>
-    <td align="center" width="25%"><strong>Cloud & Architecture</strong></td>
+    <td align="center" width="25%"><strong>Frontend &amp; Creative</strong></td>
+    <td align="center" width="25%"><strong>Backend &amp; Data</strong></td>
+    <td align="center" width="25%"><strong>AI &amp; Automation</strong></td>
+    <td align="center" width="25%"><strong>Cloud &amp; Architecture</strong></td>
   </tr>
   <tr>
     <td valign="top">
@@ -118,14 +118,14 @@ I am an engineering lead and full-stack builder who operates with a **product ag
       • Offline-First State Sync
     </td>
     <td valign="top">
-      • Gemini 1.5/2.0 Pro & Flash<br>
+      • Gemini 1.5/2.0 Pro &amp; Flash<br>
       • Whisper / Pyannote / MediaPipe<br>
-      • Autonomous Agents & Crawlers<br>
+      • Autonomous Agents &amp; Crawlers<br>
       • Model Context Protocol (MCP)<br>
-      • Prompt & Vision Engineering
+      • Prompt &amp; Vision Engineering
     </td>
     <td valign="top">
-      • Docker & Containerization<br>
+      • Docker &amp; Containerization<br>
       • AWS (ALB, ECS Fargate, S3)<br>
       • Cloudflare CDN / NGINX<br>
       • CI/CD (GitHub Actions)<br>
@@ -136,23 +136,23 @@ I am an engineering lead and full-stack builder who operates with a **product ag
 
 ---
 
-### 📊 Engineering Activity & GitHub Metrics
+### 📊 Engineering Activity &amp; GitHub Metrics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Apurv-15&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Apurv-15&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=8&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Apurv-15&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true&include_all_commits=true" width="49%" alt="Apurv's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurv-15&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Apurv-15&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=8&amp;count_private=true&amp;include_all_commits=true" width="49%" alt="Apurv's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurv-15&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=8" width="49%" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Apurv-15&theme=tokyo-night&hide_border=true&area=true&radius=8" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Apurv-15&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;radius=8" width="100%" alt="Activity Graph" />
 </div>
 
 ---
@@ -160,6 +160,6 @@ I am an engineering lead and full-stack builder who operates with a **product ag
 <div align="center">
   <p>💼 <em>Looking for enterprise-grade execution, bespoke 3D/creative digital web applications, or scalable full-stack products?</em></p>
   <a href="mailto:apurvd16@gmail.com">
-    <img src="https://img.shields.io/badge/Let%27s%20Work%20Together-Contact%20Me-4CAF50?style=for-the-badge&logo=handshake" alt="Contact Apurv" />
+    <img src="https://img.shields.io/badge/Let%27s%20Work%20Together-Contact%20Me-4CAF50?style=for-the-badge&amp;logo=handshake" alt="Contact Apurv" />
   </a>
 </div>
