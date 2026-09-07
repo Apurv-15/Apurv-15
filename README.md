@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Apurv%20Deshmukh&fontSize=42&fontAlignY=38&desc=Full-Stack%20Architect%20%7C%20Creative%20Frontend%20(3D%20%26%20Motion)%20%7C%20AI%20Systems%20Engineer&descAlignY=60&descAlign=50&theme=dark" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=260&section=header&text=Apurv%20Deshmukh&fontSize=42&fontAlignY=38&desc=Full-Stack%20Architect%20%7C%20Creative%20Frontend%20(3D%20%26%20Motion)%20%7C%20AI%20Systems%20Engineer&descSize=17&descAlignY=64&descAlign=50&theme=dark" width="100%" />
 
   <p align="center">
     <strong>Crafting high-velocity digital products, immersive 3D/motion web experiences, and production-grade AI systems.</strong>
@@ -146,7 +146,7 @@ I am an engineering lead and full-stack builder who operates with a **product ag
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Apurv-15&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true&include_all_commits=true" width="49%" alt="Apurv's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurv-15&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" width="45%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurv-15&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" width="49%" alt="Top Languages" />
 </div>
 
 <br/>
@@ -160,6 +160,6 @@ I am an engineering lead and full-stack builder who operates with a **product ag
 <div align="center">
   <p>💼 <em>Looking for enterprise-grade execution, bespoke 3D/creative digital web applications, or scalable full-stack products?</em></p>
   <a href="mailto:apurvd16@gmail.com">
-    <img src="https://img.shields.io/badge/Let's%20Work%20Together-Contact%20Me-4CAF50?style=for-the-badge&logo=handshake" alt="Contact Apurv" />
+    <img src="https://img.shields.io/badge/Let%27s%20Work%20Together-Contact%20Me-4CAF50?style=for-the-badge&logo=handshake" alt="Contact Apurv" />
   </a>
 </div>
