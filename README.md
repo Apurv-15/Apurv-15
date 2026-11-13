@@ -190,5 +190,5 @@ If you want your actual GitHub green contribution squares eaten by an animated s
 ### 🧊 3D Contribution Profile
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution profile" width="100%" />
+  <img src="https://raw.githubusercontent.com/Apurv-15/Apurv-15/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution profile" width="100%" />
 </div>
