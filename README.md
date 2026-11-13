@@ -184,3 +184,11 @@ If you want your actual GitHub green contribution squares eaten by an animated s
 <div align="center">
   <img src="[https://raw.githubusercontent.com/Apurv-15/Apurv-15/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/Apurv-15/Apurv-15/output/github-contribution-grid-snake-dark.svg)" alt="Contribution Snake Animation" width="100%" />
 </div>
+
+---
+
+### 🧊 3D Contribution Profile
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution profile" width="100%" />
+</div>
