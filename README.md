@@ -1,7 +1,3 @@
-from pathlib import Path
-
-README_CONTENT = '''<div align="center">
-
   <!-- Animated Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Apurv%20Deshmukh&fontSize=44&fontColor=FFFFFF&fontAlignY=36&animation=twinkling&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20AI%20Automation&descSize=16&descAlignY=62&descAlign=50" width="100%" alt="Apurv Deshmukh Animated Banner" />
 
@@ -166,16 +162,16 @@ README_CONTENT = '''<div align="center">
 ### 📈 GitHub Analytics & Contribution Activity
 
 <div align="center">
-  <a href="https://github.com/Apurv-15">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Apurv-15&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=8" alt="Apurv's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurv-15&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=8" alt="Apurv's Top Languages" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Apurv-15&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=8" alt="Apurv's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurv-15&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=8" alt="Apurv's Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Apurv-15&theme=tokyo-night&hide_border=true&area=true&radius=8" width="100%" alt="Apurv's GitHub Contribution Activity Graph" />
+  <a href="https://github.com/Apurv-15">
+    <img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=Apurv-15&theme=tokyo-night&hide_border=true&area=true&radius=8" width="98%" alt="Apurv's GitHub Contribution Activity Graph" />
+  </a>
 </div>
 
 <div align="center">
