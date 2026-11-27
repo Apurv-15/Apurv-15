@@ -1,9 +1,4 @@
-from pathlib import Path
 
-# This script creates the GitHub profile README.md in the current folder.
-# Run it with: python generate_readme.py
-
-README_CONTENT = r'''<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Apurv%20Deshmukh&fontSize=44&fontColor=FFFFFF&fontAlignY=36&animation=twinkling&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20AI%20Automation&descSize=16&descAlignY=62&descAlign=50" width="100%" alt="Apurv Deshmukh Animated Banner" />
 
   <a href="https://github.com/Apurv-15">
