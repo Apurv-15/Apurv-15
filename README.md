@@ -1,6 +1,7 @@
+<div align="center">
 
   <!-- Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Apurv%20Deshmukh&fontSize=44&fontColor=FFFFFF&fontAlignY=36&animation=twinkling&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20AI%20Automation&descSize=16&descAlignY=62&descAlign=50" width="100%" alt="Apurv Deshmukh Animated Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Apurv%20Deshmukh&fontSize=44&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20-%20Full-Stack%20and%20AI%20Automation&descSize=16&descAlignY=62" width="100%" alt="Apurv Deshmukh Animated Banner" />
 
   <!-- Typing SVG -->
   <a href="https://github.com/Apurv-15">
@@ -163,6 +164,10 @@
 ### 📈 GitHub Analytics & 365-Day Contribution Activity
 
 <!-- Row 1: GitHub Stats (All-Time Commits) & Most Used Languages -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Apurv-15&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=8" alt="Apurv's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurv-15&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=8" alt="Apurv's Top Languages" />
+</div>
 
 <br/>
 
@@ -178,8 +183,7 @@
   <img src="https://ghchart.rshah.org/38bdf8/Apurv-15" width="95%" alt="Apurv's 365-Day GitHub Contribution Calendar" />
 </div>
 
+<!-- Animated Footer Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=110&section=footer" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=110&section=footer" width="100%" alt="Footer Wave" />
 </div>
-'''
-
