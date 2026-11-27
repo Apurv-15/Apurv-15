@@ -163,10 +163,6 @@
 ### 📈 GitHub Analytics & 365-Day Contribution Activity
 
 <!-- Row 1: GitHub Stats (All-Time Commits) & Most Used Languages -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Apurv-15&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=8" alt="Apurv's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurv-15&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=8" alt="Apurv's Top Languages" />
-</div>
 
 <br/>
 
@@ -187,7 +183,3 @@
 </div>
 '''
 
-output_file = Path(__file__).resolve().parent / "README.md"
-output_file.write_text(README_CONTENT.strip() + "\n", encoding="utf-8")
-
-print(f"✅ Successfully created: {output_file.resolve()}")
