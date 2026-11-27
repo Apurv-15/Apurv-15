@@ -1,6 +1,9 @@
 from pathlib import Path
 
-content = r'''<div align="center">
+# This script creates the GitHub profile README.md in the current folder.
+# Run it with: python generate_readme.py
+
+README_CONTENT = r'''<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Apurv%20Deshmukh&fontSize=44&fontColor=FFFFFF&fontAlignY=36&animation=twinkling&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20AI%20Automation&descSize=16&descAlignY=62&descAlign=50" width="100%" alt="Apurv Deshmukh Animated Banner" />
 
   <a href="https://github.com/Apurv-15">
@@ -23,6 +26,14 @@ Full-Stack Software Engineer focused on building production-ready web and mobile
 - **Focus Areas:** Full-Stack Development, Mobile Applications, Backend Engineering, AI Automation
 - **Education:** B.Tech in Information Technology — Vidyalankar Institute of Technology
 - **Leadership:** Technical Lead at Google Developer Groups (GDG) on Campus VIT
+
+---
+
+### 📈 GitHub Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Apurv-15&theme=tokyo-night&hide_border=true&area=true&radius=8" width="100%" alt="Apurv's GitHub Contribution Activity Graph" />
+</div>
 
 ---
 
@@ -130,6 +141,8 @@ Full-Stack Software Engineer focused on building production-ready web and mobile
   </tr>
 </table>
 '''
-path = Path("/mnt/data/Apurv_Deshmukh_GitHub_Profile_Updated.md")
-path.write_text(content, encoding="utf-8")
-print(f"Created: {path}")
+
+output_file = Path(__file__).resolve().parent / "README.md"
+output_file.write_text(README_CONTENT, encoding="utf-8")
+
+print(f"Successfully created: {output_file.resolve()}")
